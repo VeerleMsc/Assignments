@@ -40,7 +40,7 @@ Werkervaring
 *Co-auteur van een position paper over duurzame financiering, literair research nota’s en het analyseren van data* 
 
 **04/2016 – 12/2016	Tentamentrainer Athenastudies**                                                      					  n.v.t.
-*Tentamentraining in Micro-economie, Macro-economie en Wiskunde 1*
+*Tentamentraining in Micro-economie, Macro-economie en Wiskunde*
 
 **12/2014 – 12/2016	Student bij Studentpool Tilburg University**	                    	             4u p/w
 *Voorlichtingen geven op scholen over mijn bachelor en over de Universiteit en helpen met de organisatie van open dagen*

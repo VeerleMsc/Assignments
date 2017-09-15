@@ -21,20 +21,21 @@ Opleidingen
 ---------------------------
 02/2017 – heden	Msc. Economics, Tilburg University  
 
-Vakkenpakket: Wiskunde, Econometrie, Industriële economie, financiële economie 
+*Vakkenpakket: Wiskunde, Econometrie, Industriële economie, financiële economie* 
 
 
 08/2013 – 12/2016 	Bsc. Economics, Tilburg University 
 
-Vakkenpakket: Macro-economie, Micro-economie, Wiskunde, Industriële economie en extra vakken Econometrie 
+*Vakkenpakket: Macro-economie, Micro-economie, Wiskunde, Industriële economie en extra vakken Econometrie*
 
 
 08/2015 – 01/2016 	Exchange Programma, Bradford University, Engeland 
 
-Vakkenpakket: Accounting, Innovatie en Procesontwikkeling
+*Vakkenpakket: Accounting, Innovatie en Procesontwikkeling*
 
 
 08/2007 – 06/2013	Atheneum – E&M profiel, Maurick College, Vught				
+
 
 Werkervaring
 --------------------------------------

@@ -1,22 +1,16 @@
-CV
+CV Veerle van Heesch
 =============
 
 
 Persoonsgegevens 
-------------------
-Naam: Veerle van Heesch
+-------------
 
-Adres: Willemstraat 9B, 3511RG Utrecht 
+-------------------     ----------------------------
+Willemstraat 9B         Veerlevanheesch@hotmail.com
+3511RG Utrecht          14-07-1995               
+Nederland               06-30801999           
+-------------------     ----------------------------
 
-Mobiel: 06-30801999
-
-E-Mail: Veerlevanheesch@hotmail.com
-
-Geboortedatum: 14-07-1995
-
-Geboortestad: ’s-Hertogenbosch 
-
-Rijbewijs: B 
 
 Introductie
 --------------------------

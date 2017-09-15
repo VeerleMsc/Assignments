@@ -69,5 +69,5 @@ Nevenactiviteiten
 
 Vaardigheden 
 ---------------------
-*Taal* Nederlands (Moedertaal), Engels (Vloeiend - Erasmus language test C2 niveau)  
-*Automatisering*  Word, Stata, R, Eviews en Python
+*Taal* - Nederlands (Moedertaal), Engels (Vloeiend - Erasmus language test C2 niveau)  
+*Automatisering* - Word, Stata, R, Eviews en Python

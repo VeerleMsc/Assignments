@@ -17,7 +17,7 @@ Introductie
 Ik ben Veerle, 22 jaar oud en masterstudente Economics. Mijn academische interesses liggen vooral bij mededingingseconomie en wiskunde. Naast mijn opleiding schilder ik al ruim 10 jaar en houd ik ook erg van koken.
 
 
-: Opleidingen
+Opleidingen
 ---------------------------
 **02/2017 – heden	Msc. Economics, Tilburg University**
 
@@ -37,7 +37,7 @@ Ik ben Veerle, 22 jaar oud en masterstudente Economics. Mijn academische interes
 **08/2007 – 06/2013	Atheneum – E&M profiel, Maurick College, Vught**				
 
 
-: Werkervaring
+Werkervaring
 --------------------------------------
 **06/2017 – 08/2017 	Meewerkstage Autoriteit Consument Markt (ACM)**                                             36u p/w
 
@@ -64,7 +64,7 @@ Co-auteur van een position paper over duurzame financiering, literair research n
 *Parttime kok bij LaPlace ’s-Hertogenbosch, post gesorteerd bij PostNL ’s-Hertogenbosch, Kassamedewerker Men At Work ’s-Hertogenbosch en 
 schoonmaak bij Patisserie De Rouw Vught*
 
-: Nevenactiviteiten
+Nevenactiviteiten
 -------------------------------
 
 **01/2016 – heden 	Vrijwilligerswerk bij Cross Your Borders** 				  n.v.t.
@@ -81,7 +81,7 @@ schoonmaak bij Patisserie De Rouw Vught*
 
 **08/2013 – 06/2014	Lid van de Eerstejaars Commissie, Asset Economics**                                2u p/w
 
-: Vaardigheden 
+Vaardigheden 
 ---------------------
 *Taal* Nederlands (Moedertaal), Engels (Vloeiend - Erasmus language test C2 niveau)  
 *Automatisering*  Word, Stata, R, Eviews en Python
